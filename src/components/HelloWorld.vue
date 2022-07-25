@@ -1,5 +1,5 @@
 <template>
-<link rel="icon" type="image/x-icon" href="/favico.ico">
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <div class="hello" style="background-color: #171717; width: 100%">
     <ul>
     <div class="redline">
@@ -9,20 +9,18 @@
     <img src="../assets/logo.png" class="logo" style="width: 100%; max-width: 450px; margin-bottom: 30px auto;">
     <ul>
       <ul>
-      <li><h3 style="width: 100%; max-width: 950px; font-family: 'Montserrat'; color: white;">Torne-se um trader profissional e fature <span style="color: aqua;">MIL REAIS POR DIA </span> Copiando e Colando, mesmo sendo iniciante (atualizado em JULHO DE 2022)</h3></li>
+      <li><h3 style="width: 100%; max-width: 1050px; font-family: 'Montserrat'; color: white;">Torne-se um trader profissional e fature <span style="color: aqua;">MIL REAIS POR DIA </span> Copiando e Colando, mesmo sendo iniciante (atualizado em JULHO DE 2022)</h3></li>
       </ul>
-      <li><h3 style="width: 100%; max-width: 950px; font-family: 'Montserrat'; font-size: 15px; color: white;">Simplesmente o único treinamento que ensina o passo a passo para ganhar dinheiro na internet através do day trade.</h3></li>
+      <li><h3 style="width: 100%; max-width: 950px; font-family: 'Montserrat'; font-size: 15px; color: white;">O único treinamento que ensina o passo a passo para ganhar dinheiro na internet através do <span style="color: #007eff">Day Trade</span>.</h3></li>
       <p></p>
       <li></li>
       <div class="container">
-        <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Sil8xuaHV20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; picture-in-picture"></iframe>
+        <iframe class="responsive-iframe" src="https://www.youtube.com/embed/QfDSckdAshs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; picture-in-picture"></iframe>
       </div>
       <li>
         <ul>
-        <div class="warn-text">
           <h3 style="width: 100%; max-width: 1050px; font-size: 15px; font-family: 'Montserrat'; color: white;"><span style="color: red;">AVISO: </span> 92,3% das pessoas que fizeram esse curso, ganhou o triplo do valor da inscrição em 14 dias.
           </h3>
-        </div>
         </ul>
         <ul>
     <div class="wrap" style="padding: 25px">
@@ -60,7 +58,7 @@
         <li><h3 style="color: #007eff; font-family: 'Montserrat'; width: 100%; max-width: 1200px; font-size: 20px; padding: 15px;">O que irei te ensinar é uma estratégia que uso para faturar <span style="color: green">TODOS OS DIAS</span>.</h3></li>
       </ul>
       <ul>
-        <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com Day Trade a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h3>
+        <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com <span style="color: #007eff">day trade</span> a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h3>
       </ul>
       <li>
         <ul>
@@ -79,7 +77,7 @@
       <li><div class="img-filipi"><img src="../assets/carro2.jpg" class="img-filipi" width="100%" style=" max-width: 500px; padding: 15px; border-radius: 3ch;"></div></li>
     </ul>
     <ul>
-      <li><h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 700px; margin: 0 auto; padding: 35px;">Quer mudar de vida? Sucesso não é sorte, é saber...</h3></li>
+      <li><h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 700px; margin: 0 auto; padding: 35px;">Quer <span style="color: orange;">mudar de vida?</span> Sucesso não é sorte, é saber...</h3></li>
     </ul>
     <ul>
       <li><h3 style="color: #171717; font-family: 'Montserrat'">Potencial para ganhar <span style="color: green;">R$ 100</span> a <span style="color: green;">R$ 1.000</span> por dia mesmo sendo iniciante.</h3></li>
@@ -101,7 +99,7 @@
         </li>
           <ul>
       <li><div class="img-filipi"><img src="../assets/1.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">APRENDER</h4><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Uma estratégia de</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Trader muito lucrativa</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">e completa.</p></li>
-      <li><div class="img-filipi"><img src="../assets/3.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">SUCESSO</h4><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">No daytrade e na vida,</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">ganhando uma nova</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">habilidade lucrativa e</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">abrindo seu caminho</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">para alcançar</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">a liberdade.</p></li>
+      <li><div class="img-filipi"><img src="../assets/3.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">SUCESSO</h4><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">No day trade e na vida,</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">ganhando uma nova</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">habilidade lucrativa e</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">abrindo seu caminho</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">para alcançar</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">a liberdade.</p></li>
       <li><div class="img-filipi"><img src="../assets/4.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">PRATICAR</h4><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Uma estratégia de</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Trader muito lucrativa</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">e completa.</p></li>
           </ul>
   </div>
