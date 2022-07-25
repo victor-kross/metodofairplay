@@ -1,5 +1,5 @@
 <template>
-<link rel="icon" type="image/x-icon" href="public/favico.ico">
+<link rel="icon" type="image/x-icon" href="/favico.ico">
   <div class="hello" style="background-color: #171717; width: 100%">
     <ul>
     <div class="redline">
@@ -20,14 +20,14 @@
       <li>
         <ul>
         <div class="warn-text">
-          <h3 style="display: flex; width: 100%; max-width: 1050px; font-size: 15px; font-family: 'Montserrat'; color: white;"><span style="color: red;">AVISO:ㅤ </span> 92,3% das pessoas que fizeram esse curso, ganhou o triplo do valor da inscrição em 14 dias.
+          <h3 style="width: 100%; max-width: 1050px; font-size: 15px; font-family: 'Montserrat'; color: white;"><span style="color: red;">AVISO: </span> 92,3% das pessoas que fizeram esse curso, ganhou o triplo do valor da inscrição em 14 dias.
           </h3>
         </div>
         </ul>
         <ul>
-          <div class="botaozin">
-          <button type="button" class="btn btn-primary btn-lg" style="border-color: white; font-family: 'Montserrat'; padding: 15px;"> QUERO FICAR RICO 💰</button>
-          </div>
+    <div class="wrap" style="padding: 25px">
+      <button class="button">comprar</button>
+    </div>
           <img style="height: 200px;" src="../assets/image2.png">
         </ul>
         </li>
@@ -36,7 +36,7 @@
   <div class="mid" style="background-color: #ffffff; padding: 35px; width: 100%;">
   <ul>
     <div>
-      <li><h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 950px;">Ganhe três bônus exclusivos se inscrevendo hoje!</h3></li>
+      <li style="padding: 25px"><h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 950px;">Ganhe três bônus exclusivos se inscrevendo hoje!</h3></li>
     </div>
   </ul>
     <img src="../assets/2.png" class="logo" style="width: 100%; max-width: 1280px">
@@ -57,7 +57,7 @@
       </li>
       </ul>
       <ul>
-        <li><h3 style="color: #007eff; font-family: 'Montserrat'; width: 100%; max-width: 1200px; font-size: 20px; padding: 15px;">O que eu vou te ensinar é uma estratégia que uso para faturar todos os dias.</h3></li>
+        <li><h3 style="color: #007eff; font-family: 'Montserrat'; width: 100%; max-width: 1200px; font-size: 20px; padding: 15px;">O que irei te ensinar é uma estratégia que uso para faturar <span style="color: green">TODOS OS DIAS</span>.</h3></li>
       </ul>
       <ul>
         <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com Day Trade a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h3>
@@ -144,9 +144,9 @@
         <ul>
         <li><h3 style="color: white; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 950px;">✅ Grupo Exclusivo do Telegram</h3></li>
         </ul>
-          <div class="botaozin">
-          <button type="button" class="btn btn-primary btn-lg" style="border-color: white; font-family: 'Montserrat'; padding: 25px; border-radius: 3ch;"> QUERO FAZER 1K POR DIA 💰</button>
-          </div>
+    <div class="wrap" style="padding: 25px">
+      <button class="button">comprar</button>
+    </div>
         <img style="height: 150px;" src="../assets/image2.png">
     </ul>
   </div>
@@ -156,8 +156,8 @@
     </ul>
         <ul>
           <li><div class="img-filipi"><img src="../assets/foto-aluno.jpeg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 400px; padding: 15px; border-color: aqua; border-radius: 4ch;"></div></li>
-            <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 800px; padding: 50px; border-color: aqua; border-radius: 3ch; box-shadow: 5px 3px #171717">Conheça Carlos Eduardo. Ele era um estudante de engenharia há 3 anos que não tinha experiência no mercado de Trade.
-            Quando ele entrou para nossa comunidade, ele abriu uma  pequena conta e começou a fazer  trades de R$100 a R$1.000 por dia. Pouco tempo depois ele provou tanto a si mesmo que lhe oferecemos um treinamento mais Exclusivo e personalizado!</h3></li>
+            <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 800px; padding: 25px; border-color: aqua; border-radius: 3ch; box-shadow: 5px 3px #171717"><span style="color: #007eff;">Conheça Carlos Eduardo, um estudante de engenharia há mais de 3 anos que não tinha experiência alguma mercado financeiro.</span>
+            Quando entrou para nossa comunidade, ele abriu uma  pequena conta e começou a fazer operações de R$100 a R$1.000 por dia. Pouco tempo depois, ele provou a si mesmo que com o conhecimento necessário, tudo era possível.</h3></li>
         </ul>
         <ul style="padding: 30px">
           <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 15px;">Mais depoimentos de alunos</h3>
@@ -188,25 +188,23 @@
         </ul>
         <ul>
           <li style="padding: 55px;">
-          <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">A pior reação é NÃO AÇÃO</h3>
-          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Quanto tempo mais você vai...</h3>
+          <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">A pior reação é a NÃO AÇÃO.</h3>
+          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Não deixe para amanhã o que lhe aguarda ainda hoje</h3>
           </li>
-          <h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 950px; font-size: 18px; margin: 0 auto;">Ganhe a vida em apenas 90 minutos por dia, isso mesmo. Você só precisa de no máximo 90 minutos por dia para operar e obter lucro no mercado. Faça o seu dinheiro, saia do computador e aproveite o seu dia.</h3>
           <h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 850px; font-size: 18px; margin: 0 auto;">Ficar preso em sua situação atual, você SABE que odeia!</h3>
           <h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 850px; font-size: 18px; margin: 0 auto;">Continuar sonhando com a liberdade financeira ao invés de vive-la?</h3>
           <h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 850px; font-size: 18px; margin: 0 auto;">Você vai acordar todos os dias entristecido e esperar o tempo passar?</h3>
         </ul>
+        <h1 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 850px; font-size: 30px; margin: 0 auto;">NÃO!</h1>
         <ul>
-          <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 50px;">Você está finalmente pronto para investir em seu próprio futuro?</h3>
+          <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 50px;">Você está finalmente pronto para <span style="color: #007eff">investir</span> em seu próprio <span style="color: #007eff">futuro?</span></h3>
         </ul>
-          <div class="botaozin">
-          <button type="button" class="btn btn-primary btn-lg" style="border-color: white; font-family: 'Montserrat'; padding: 25px; border-radius: 3ch;"> QUERO MUDAR DE VIDA! 💰</button>
-          </div>
+    <div class="wrap" style="padding: 25px">
+      <button class="button">comprar</button>
+    </div>
         <img style="height: 150px;" src="../assets/image2.png">
         <ul></ul>
-        <li style="padding: 30px">
-        <img style="height: 100px;" src="../assets/garantia.png">
-        </li>
+        <img style="height: 150px;" src="../assets/garantia.png">
         <ul></ul>
         <ul>
         <li><p style="position: center; font-style: normal; font-weight: 600; font-display: swap;">© 2022 Método Fair Play</p><p>Todos os direitos reservados.</p></li>
@@ -299,11 +297,86 @@ a {
     background-color: red;
 }
 
-.botaozin {
-  position: relative;
-  width: 100%;
-  padding: 40px;
-  margin: 0 auto;
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+.button {
+  min-width: 252px;
+  min-height: 60px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  font-weight: 700;
+  color: #313133;
+  background: #4FD1C5;
+background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
+  border: none;
+  border-radius: 1000px;
+  box-shadow: 12px 12px 24px rgba(79,209,197,.64);
+  transition: all 0.3s ease-in-out 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  padding: 10px;
+  }
+
+button::before {
+content: '';
+  border-radius: 1000px;
+  min-width: calc(250px + 12px);
+  min-height: calc(55px + 12px);
+  border: 6px solid #00FFCB;
+  box-shadow: 0 0 60px rgba(0,255,203,.64);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: all .3s ease-in-out 0s;
+}
+
+.button:hover, .button:focus {
+  color: #313133;
+  transform: translateY(-6px);
+}
+
+button:hover::before, button:focus::before {
+  opacity: 1;
+}
+
+button::after {
+  content: '';
+  width: 30px; height: 30px;
+  border-radius: 100%;
+  border: 6px solid #00FFCB;
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: ring 1.5s infinite;
+}
+
+button:hover::after, button:focus::after {
+  animation: none;
+  display: none;
+}
+
+@keyframes ring {
+  0% {
+    width: 30px;
+    height: 30px;
+    opacity: 1;
+  }
+  100% {
+    width: 300px;
+    height: 300px;
+    opacity: 0;
+  }
+}
 </style>
