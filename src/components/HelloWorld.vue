@@ -63,12 +63,12 @@
         <li><h4 style="color: #007eff; font-family: 'Montserrat'; width: 100%; max-width: 1200px; padding: 15px;">O que irei te ensinar é uma estratégia que uso para faturar <span style="color: green">TODOS OS DIAS</span>.</h4></li>
       </ul>
       <ul>
-        <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com <span style="color: #007eff">day trade</span> a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h3>
+        <h4 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com <span style="color: #007eff">day trade</span> a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h4>
       </ul>
-      <li><div class="img-filipi"><img src="../assets/filipi1.jpeg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 200px; padding: 25px; border-color: aqua; border-radius: 4ch;"></div></li>
+      <li><div class="img-filipi"><img src="../assets/filipi1.jpeg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 190px; padding: 25px; border-color: aqua; border-radius: 4ch;"></div></li>
       <li>
         <ul>
-            <li class="texto-filipi"><h4 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 800px; padding: 25px;">Lembro de estar na escola e perceber que estava lentamente virando mais uma vítima do sistema. Aprender a trabalhar apenas para "sobreviver", de coração, eu como a maioria de vocês, sonho em proporcionar um conforto melhor para minha família, então lutei muito para conseguir o que tenho hoje, e tenho certeza que se você der o máximo, você também consegue!</h4></li>
+            <li class="texto-filipi"><h4 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 590px; padding: 25px;">Lembro de estar na escola e perceber que estava lentamente virando mais uma vítima do sistema. Aprender a trabalhar apenas para "sobreviver", de coração, eu como a maioria de vocês, sonho em proporcionar um conforto melhor para minha família, então lutei muito para conseguir o que tenho hoje, e tenho certeza que se você der o máximo, você também consegue!</h4></li>
         </ul>
       </li>
     </ul>
@@ -192,8 +192,8 @@
         </ul>
         <ul>
           <li style="padding: 25px;">
-          <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">A pior reação é a NÃO AÇÃO.</h3>
-          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Não deixe para amanhã o que lhe aguarda ainda hoje</h3>
+          <h4 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">A pior reação é a NÃO AÇÃO.</h4>
+          <h4 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Não deixe para amanhã o que lhe aguarda ainda hoje</h4>
           </li>
           <ul><li></li></ul>
           <h4 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 850px; margin: 0 auto;">Ficar preso em sua situação atual, você SABE que odeia!</h4>
@@ -202,7 +202,6 @@
           <li></li>
           <h4 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 850px; margin: 0 auto;">Você vai acordar todos os dias entristecido e esperar o tempo passar?</h4>
         </ul>
-        <h1 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 850px; font-size: 30px; margin: 0 auto;">NÃO!</h1>
         <ul>
           <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 50px;">Você está finalmente pronto para <span style="color: #007eff">investir</span> em seu próprio <span style="color: #007eff">futuro?</span></h3>
         </ul>
