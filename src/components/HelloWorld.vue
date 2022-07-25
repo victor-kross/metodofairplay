@@ -1,13 +1,12 @@
 <template>
-<link rel="icon" type="image/x-icon" href="/public/favico.ico">
-  <div class="hello" style="background-color: #171717; width: 100%;">
+<link rel="icon" type="image/x-icon" href="public/favico.ico">
+  <div class="hello" style="background-color: #171717; width: 100%">
     <ul>
     <div class="redline">
-        <h3 class="text">DE R$497 POR R$297 ENCERRA HOJE</h3>
-        <button type="button" class="btn btn-primary btn-lg" style="background-color: red; border-color: black; font-family: 'Montserrat'; text-shadow: #171717 3px;">QUERO FICAR RICO</button>
+        <h3 class="text" style="position: absolute; bottom: 15px">DE <span style="color: yellow;">R$499,90</span> POR APENAS<span style="color: yellow;"> R$297,90 </span><span style="color: white; text-shadow: 2px 1px #007eff;">(ENCERRA HOJE)</span></h3>
     </div>
     </ul>
-    <img src="../assets/logo.png" class="logo" style="width: 100%; max-width: 450px;">
+    <img src="../assets/logo.png" class="logo" style="width: 100%; max-width: 450px; margin-bottom: 30px auto;">
     <ul>
       <ul>
       <li><h3 style="width: 100%; max-width: 950px; font-family: 'Montserrat'; color: white;">Torne-se um trader profissional e fature <span style="color: aqua;">MIL REAIS POR DIA </span> Copiando e Colando, mesmo sendo iniciante (atualizado em JULHO DE 2022)</h3></li>
@@ -58,21 +57,21 @@
       </li>
       </ul>
       <ul>
-        <li><h3 style="color: #007eff; font-family: 'Montserrat'; width: 100%; max-width: 1200px; font-size: 20px; padding: 50px;">O que eu vou te ensinar é uma estratégia que uso para faturar todos os dias.</h3></li>
+        <li><h3 style="color: #007eff; font-family: 'Montserrat'; width: 100%; max-width: 1200px; font-size: 20px; padding: 15px;">O que eu vou te ensinar é uma estratégia que uso para faturar todos os dias.</h3></li>
       </ul>
       <ul>
-        <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Meu nome é Filipi, trabalho com Day Trade a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h3>
+        <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com Day Trade a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h3>
       </ul>
       <li>
         <ul>
-            <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 800px; padding: 15px; text-shadow: aqua 3px 0 1px; border-color: aqua; border-radius: 3ch; box-shadow: 5px 3px #171717;">Lembro de estar na escola e logo percebi que estava lentamente virando mais uma vitima do sistema. Aprender a trabalhar apenas para "sobreviver". De coração, eu como a maioria de vocês sonha em proporcionar um conforto melhor para Familia, então eu lutei muito para conseguir o que eu tenho hoje, e tenho certeza que se você der o sangue, você também consegue!</h3></li>
+            <div class="texto-filipi"><li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 800px; padding: 15px">Lembro de estar na escola e perceber que estava lentamente virando mais uma vítima do sistema. Aprender a trabalhar apenas para "sobreviver", de coração, eu como a maioria de vocês, sonho em proporcionar um conforto melhor para minha família, então lutei muito para conseguir o que tenho hoje, e tenho certeza que se você der o máximo, você também consegue!</h3></li></div>
         </ul>
       </li>
         <li><div class="img-filipi"><img src="../assets/filipi1.jpeg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 200px; padding: 15px; border-color: aqua; border-radius: 4ch;"></div></li>
     </ul>
     <ul>
       <li>
-      <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 1200px; margin: 0 auto; padding: 50px;">Desde então, posso trabalhar na hora que eu quiser e tenho tempo para fazer o que eu quero.</h3>
+      <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Desde então, posso trabalhar na hora que eu quiser e tenho tempo para fazer o que eu quero.</h3>
       </li>
     </ul>
     <ul>
@@ -80,30 +79,30 @@
       <li><div class="img-filipi"><img src="../assets/carro2.jpg" class="img-filipi" width="100%" style=" max-width: 500px; padding: 15px; border-radius: 3ch;"></div></li>
     </ul>
     <ul>
-      <li><h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 700px; margin: 0 auto; padding: 50px;">Quer mudar de vida? Sucesso não é sorte, é saber...</h3></li>
+      <li><h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 700px; margin: 0 auto; padding: 35px;">Quer mudar de vida? Sucesso não é sorte, é saber...</h3></li>
     </ul>
     <ul>
-      <li><h3 style="color: #171717; font-family: 'Montserrat'">Potencial para ganhar R$100 a R$1.000 por dia mesmo sendo iniciante.</h3></li>
+      <li><h3 style="color: #171717; font-family: 'Montserrat'">Potencial para ganhar <span style="color: green;">R$ 100</span> a <span style="color: green;">R$ 1.000</span> por dia mesmo sendo iniciante.</h3></li>
       <ul></ul>
-      <li><h3 style="color: #171717; font-family: 'Montserrat'">Liberdade para viajar e trabalhar em qualquer lugar do mundo.</h3></li>
+      <li><h3 style="color: #171717; font-family: 'Montserrat'">Liberdade para <span style="color: red;">viajar e trabalhar de qualquer lugar do mundo.</span></h3></li>
       <ul></ul>
-      <li><h3 style="color: #171717; font-family: 'Montserrat'">Trabalhe 90 minutos ou menos por dia.</h3></li>
+      <li><h3 style="color: #171717; font-family: 'Montserrat'">Trabalhe <span style="color: #007eff;"> 90 minutos </span>ou <span style="color: red;">menos</span> sempre que quiser.</h3></li>
       <ul></ul>
-      <li><h3 style="color: #171717; font-family: 'Montserrat'">Liberdade para adicionar mais fluxos de renda à sua vida.</h3></li>
+      <li><h3 style="color: #171717; font-family: 'Montserrat'">Liberdade para adicionar mais <span style="color: green;">fluxos de renda à sua vida</span>.</h3></li>
       <ul></ul>
-      <li><h3 style="color: #171717; font-family: 'Montserrat'">Acesso ao grupo Exclusivo do telegram.</h3></li>
+      <li><h3 style="color: #171717; font-family: 'Montserrat'">Acesso ao grupo Exclusivo do <span style="color: #007eff">TELEGRAM</span> 📱</h3></li>
     </ul>
         <li>
           <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 1200px; margin: 0 auto; padding: 40px;">Para se tornar lucrativo, você precisa de um plano de aprendizado estruturado</h3>
         </li>
         <ul></ul>
         <li>
-          <h3 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 1200px; margin: 0 auto; padding: 50px;">ETAPAS PARA ALCANÇAR O SUCESSO</h3>
+          <h3 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 1200px; margin: 0 auto; padding: 40px;">ETAPAS PARA ALCANÇAR O SUCESSO</h3>
         </li>
           <ul>
-      <li><div class="img-filipi"><img src="../assets/1.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">APRENDER</h4><p style="font-family: 'Montserrat';">Uma estratégia de</p><p style="font-family: 'Montserrat';">Trader muito lucrativa</p><p style="font-family: 'Montserrat';">e completa.</p></li>
-      <li><div class="img-filipi"><img src="../assets/3.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">SUCESSO</h4><p style="font-family: 'Montserrat';">No daytrade e na vida,</p><p style="font-family: 'Montserrat';">ganhando uma nova</p><p style="font-family: 'Montserrat';">habilidade lucrativa e</p><p style="font-family: 'Montserrat';">abrindo seu caminho</p><p style="font-family: 'Montserrat';">para alcançar</p><p style="font-family: 'Montserrat';">a liberdade.</p></li>
-      <li><div class="img-filipi"><img src="../assets/4.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">PRATICAR</h4><p style="font-family: 'Montserrat';">Uma estratégia de</p><p style="font-family: 'Montserrat';">Trader muito lucrativa</p><p style="font-family: 'Montserrat';">e completa.</p></li>
+      <li><div class="img-filipi"><img src="../assets/1.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">APRENDER</h4><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Uma estratégia de</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Trader muito lucrativa</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">e completa.</p></li>
+      <li><div class="img-filipi"><img src="../assets/3.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">SUCESSO</h4><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">No daytrade e na vida,</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">ganhando uma nova</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">habilidade lucrativa e</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">abrindo seu caminho</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">para alcançar</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">a liberdade.</p></li>
+      <li><div class="img-filipi"><img src="../assets/4.png" class="img-filipi" width="100%" style=" max-width: 500px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">PRATICAR</h4><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Uma estratégia de</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Trader muito lucrativa</p><p style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">e completa.</p></li>
           </ul>
   </div>
   <div class="mid-late" style="background-color: #171717; padding: 35px; width: 100%;">
@@ -157,14 +156,14 @@
     </ul>
         <ul>
           <li><div class="img-filipi"><img src="../assets/foto-aluno.jpeg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 400px; padding: 15px; border-color: aqua; border-radius: 4ch;"></div></li>
-            <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 800px; padding: 50px; text-shadow: aqua 3px 0 1px; border-color: aqua; border-radius: 3ch; box-shadow: 5px 3px #171717">Conheça Carlos Eduardo. Ele era um estudante de engenharia há 3 anos que não tinha experiência no mercado de Trade.
+            <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 800px; padding: 50px; border-color: aqua; border-radius: 3ch; box-shadow: 5px 3px #171717">Conheça Carlos Eduardo. Ele era um estudante de engenharia há 3 anos que não tinha experiência no mercado de Trade.
             Quando ele entrou para nossa comunidade, ele abriu uma  pequena conta e começou a fazer  trades de R$100 a R$1.000 por dia. Pouco tempo depois ele provou tanto a si mesmo que lhe oferecemos um treinamento mais Exclusivo e personalizado!</h3></li>
         </ul>
         <ul style="padding: 30px">
           <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 15px;">Mais depoimentos de alunos</h3>
         </ul>
         <ul>
-            <li><img src="../assets/depoimento1.jpg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 350px; padding: 15px; border-color: aqua; border-radius: 4ch;"></li>
+            <li><img src="../assets/depoimento1.jpg" class="img-filipi" alt="cuzil" loading="lazy" width="100%" style="border-radius: 50px; max-width: 350px; padding: 15px; border-color: aqua; border-radius: 4ch;"></li>
             <li><img src="../assets/depoimento2.jpg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 250px; padding: 15px; border-color: aqua; border-radius: 4ch;"></li>
             <li><img src="../assets/depoimento3.jpg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 280px; padding: 15px; border-color: aqua; border-radius: 4ch;"></li>
             <li><img src="../assets/depoimento4.jpg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 350px; padding: 15px; border-color: aqua; border-radius: 4ch;"></li>
@@ -174,18 +173,18 @@
           <li><img src="../assets/depoimento6.jpg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 400px; padding: 15px; border-color: aqua; border-radius: 4ch;"></li>
           <li><img src="../assets/depoimento7.jpg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 280px; padding: 15px; border-color: aqua; border-radius: 4ch;"></li>
         </ul>
-        <ul style="padding: 35px">
-          <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Minha vida mudou depois que tomei essa decisão</h3>
+        <ul>
+          <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Minha vida mudou depois que tomei essa decisão</h3>
           <li></li>
-          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Liberdade | Felicidade | Confiança</h3>
+          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; font-size: 20px;">Liberdade | Felicidade | Confiança</h3>
         </ul>
         <ul>
-          <li><div class="img-filipi"><img src="../assets/5.png" width="100%" style="max-width: 400px; height: 100%;"></div></li>
-          <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 500px">Ganhe a vida em apenas 90 minutos por dia, isso mesmo. Você só precisa de no máximo 90 minutos por dia para operar e obter lucro no mercado. Faça o seu dinheiro, saia do computador e aproveite o seu dia.</h3></li>
+          <li><div class="img-filipi"><img src="../assets/5.png" width="100%" style="display: flex; max-width: 350px; height: 100%;"></div></li>
+          <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 380px">Ganhe a vida em apenas 90 minutos por dia, isso mesmo. Você só precisa de no máximo 90 minutos por dia para operar e obter lucro no mercado. Faça o seu dinheiro, saia do computador e aproveite o seu dia.</h3></li>
         </ul>
         <ul>
-          <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 400px; padding: 50px;">Negocie de qualquer lugar do mundo, tudo que você precisa é de um Celular ou Notebook e wi-fi.</h3></li>
-          <li><div class="img-filipi"><img src="../assets/filipi2.jpg" width="100%" style="max-width: 200px; border-radius: 15ch; height: 200px; padding: 5px;"></div></li>
+          <li><h3 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 380px; padding: 50px">Negocie de qualquer lugar do mundo, tudo que você precisa é de um Celular ou Notebook e wi-fi.</h3></li>
+          <li><div class="img-filipi"><img src="../assets/filipi2.jpg" width="100%" style="max-width: 200px; border-radius: 15ch; height: 200px; padding: 5px; box-shadow: 12px 1px;"></div></li>
         </ul>
         <ul>
           <li style="padding: 55px;">
@@ -205,10 +204,12 @@
           </div>
         <img style="height: 150px;" src="../assets/image2.png">
         <ul></ul>
+        <li style="padding: 30px">
         <img style="height: 100px;" src="../assets/garantia.png">
+        </li>
         <ul></ul>
         <ul>
-        <li style="padding: 2px;"><p style="padding: 50px; font-style: normal; font-weight: 600; font-display: swap;">© 2022 Método Fair Play. Todos os direitos reservados.</p></li>
+        <li><p style="position: center; font-style: normal; font-weight: 600; font-display: swap;">© 2022 Método Fair Play</p><p>Todos os direitos reservados.</p></li>
         </ul>
   </div>
 </template>
@@ -267,6 +268,20 @@ a {
   border-radius: 3ch;
 }
 
+@media screen and (max-width: 700px) {
+  .responsive-iframe {
+    width: 350px;
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .texto-filipi {
+    padding: 0 auto;
+    display: flex;
+  }
+}
+
 .text {
     width: 100%;
     color: white;
@@ -280,7 +295,7 @@ a {
     left: 0;
     z-index: 999;
     width: 100%;
-    height: 100px;
+    height: 80px;
     background-color: red;
 }
 
