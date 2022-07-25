@@ -1,4 +1,4 @@
-# pimba
+# Projeto Fair Play
 
 ## Project setup
 ```
