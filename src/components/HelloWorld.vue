@@ -63,12 +63,12 @@
         <li><h4 style="color: #007eff; font-family: 'Montserrat'; width: 100%; max-width: 1200px; padding: 15px;">O que irei te ensinar é uma estratégia que uso para faturar <span style="color: green">TODOS OS DIAS</span>.</h4></li>
       </ul>
       <ul>
-        <h4 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com <span style="color: #007eff">day trade</span> a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente do Day Trade.</h4>
+        <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Meu nome é Filipi, trabalho com <span style="color: #007eff">Day Trade</span> a 4 anos e fiquei milionário aos 20, e hoje, vivo exclusivamente disso.</h3>
       </ul>
       <li><div class="img-filipi"><img src="../assets/filipi1.jpeg" class="img-filipi" width="100%" style="border-radius: 50px; max-width: 190px; padding: 25px; border-color: aqua; border-radius: 4ch;"></div></li>
       <li>
         <ul>
-            <li class="texto-filipi"><h4 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 590px; padding: 25px;">Lembro de estar na escola e perceber que estava lentamente virando mais uma vítima do sistema. Aprender a trabalhar apenas para "sobreviver", de coração, eu como a maioria de vocês, sonho em proporcionar um conforto melhor para minha família, então lutei muito para conseguir o que tenho hoje, e tenho certeza que se você der o máximo, você também consegue!</h4></li>
+            <li class="texto-filipi"><h4 style="color: #171717; font-family: 'Montserrat'; width: 100%; max-width: 590px; padding: 25px;">Lembro de estar na escola e perceber que estava lentamente virando mais uma vítima do sistema. Aprender a trabalhar apenas para "sobreviver", de coração, eu como a maioria de vocês, sonho em proporcionar um conforto melhor para minha família, então lutei muito para conseguir o que tenho hoje, e tenho certeza que se você der o máximo, <span style="color: green">você também consegue!</span></h4></li>
         </ul>
       </li>
     </ul>
@@ -100,7 +100,7 @@
         </li>
         <ul></ul>
         <li>
-          <h3 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 1200px; margin: 0 auto; padding: 40px;">ETAPAS PARA ALCANÇAR O SUCESSO</h3>
+          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%; max-width: 1200px; margin: 0 auto; padding: 25px;">ETAPAS PARA ALCANÇAR O SUCESSO</h3>
         </li>
           <ul>
       <li><div class="img-filipi"><img src="../assets/1.png" width="100%" style=" max-width: 300px;"></div><h4 style="color: aqua; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap;  width: 100%;">APRENDER</h4><h4 style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">uma estratégia de</h4><h4 style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">Trader muito lucrativa</h4><h4 style="font-family: 'Montserrat'; font-style: normal; font-weight: 600;  font-display: swap;">e completa.</h4></li>
@@ -179,9 +179,8 @@
         </ul>
         <ul>
           <h3 style="color: #171717; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; padding: 35px;">Minha vida mudou depois que tomei essa decisão</h3>
-          <li></li>
           <div class="liberdade">
-          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto; font-size: 15px;">Liberdade | Felicidade | Confiança</h3>
+          <h3 style="color: #007eff; font-family: 'Montserrat'; font-style: normal; font-weight: 800;  font-display: swap; width: 100%; max-width: 1200px; margin: 0 auto;">Liberdade | Felicidade | Confiança</h3>
           </div>
         </ul>
         <ul>
